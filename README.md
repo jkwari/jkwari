@@ -3,7 +3,7 @@
 I'm a passionate Full-Stack Developer with hands-on experience in building dynamic **Web Applications** and **Mobile Applications**. I thrive on transforming ideas into efficient, scalable, and user-friendly digital solutions. My journey in development is driven by curiosity, creativity, and the love of problem-solving.  
 
 ## A Bit About Me:
-- 🌐 I specialize in both **frontend** and **backend** development, using modern frameworks and tools to create seamless user experiences.  
+- 🌐 I specialize in both **Frontend** and **Backend** development, using modern frameworks and tools to create seamless user experiences.  
 - 📱 I've worked on **mobile applications**, focusing on cross-platform compatibility and performance optimization.  
 - 💻 My tech stack includes **[insert your key tools and frameworks, e.g., React, Node.js, Spring Boot, Java, and AWS]**.  
 - 🌱 I’m always learning and staying updated with the latest trends in technology to deliver cutting-edge solutions.  
